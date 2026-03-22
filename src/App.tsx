@@ -46,7 +46,7 @@ export default function App() {
               Propose les meilleurs services prop firm
             </h1>
           </div>
-          <div className="w-full flex justify-start mt-auto pb-4 md:pb-8">
+          <div className="hidden md:flex w-full justify-start mt-auto pb-4 md:pb-8">
             <button className="clip-button bg-brand-red text-white px-5 py-2.5 text-xs md:px-8 md:py-4 md:text-lg font-bold uppercase tracking-wide hover:bg-red-600 transition-colors">
               Offre unique
             </button>
